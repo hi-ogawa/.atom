@@ -1,0 +1,17 @@
+"*":
+  "atom-typescript": {}
+  core:
+    audioBeep: false
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "925be5ae-6d07-0232-bb7b-31742b6c3e03"
+  "one-dark-ui": {}
+  react: {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
