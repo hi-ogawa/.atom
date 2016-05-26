@@ -32,3 +32,7 @@
   'ctrl-tab': 'pane:show-next-item'
   'ctrl-shift-tab ^ctrl': 'unset!'
   'ctrl-shift-tab': 'pane:show-previous-item'
+
+# https://discuss.atom.io/t/move-to-beginning-of-line/19409
+'atom-text-editor':
+  'ctrl-a': 'editor:move-to-beginning-of-line'
