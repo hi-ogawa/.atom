@@ -1,6 +1,7 @@
 "*":
   "atom-typescript": {}
   core:
+    allowPendingPaneItems: false
     audioBeep: false
     themes: [
       "atom-dark-ui"
@@ -15,3 +16,4 @@
   "tree-view": {}
   welcome:
     showOnStartup: false
+  whitespace: {}

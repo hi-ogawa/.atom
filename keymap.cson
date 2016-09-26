@@ -36,3 +36,9 @@
 # https://discuss.atom.io/t/move-to-beginning-of-line/19409
 'atom-text-editor':
   'ctrl-a': 'editor:move-to-beginning-of-line'
+
+'atom-text-editor.autocomplete-active':
+  'ctrl-g': 'autocomplete-plus:cancel'
+
+'.tree-view':
+  'r': 'tree-view:rename'
